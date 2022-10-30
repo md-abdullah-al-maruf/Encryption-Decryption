@@ -9,3 +9,5 @@ Example:
 <br>
 <br>
 ![En_De.gif](https://user-images.githubusercontent.com/82973846/198876881-64248151-5d29-4a19-9369-8f11aeb110ed.gif)
+<br><br>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=md-abdullah-al-maruf.Encryption-Decryption&left_color=red&right_color=green) 
